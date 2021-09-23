@@ -14,6 +14,6 @@ jobs:
         server: ftp.sfiloveinaction.org
         username: ${{ secrets.username }}
         password: ${{ secrets.password }}
-        server-dir: /home/sfilovei/public_html/info/sunny/
+        server-dir: home/sfilovei/public_html/info/sunny/
         protocol: ftps
         port: 21
